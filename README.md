@@ -2,6 +2,8 @@
 
 ## Overview
 This project uses a Random Forest Classifier to predict machine failures based on sensor data. The goal is to identify potential breakdowns before they happen, minimizing downtime.
+LIVE DEMO
+https://predictive-maintenance-using--random-forest.streamlit.app/
 
 ## Data
 The dataset contains 10,000 data points from industrial machines, including:
